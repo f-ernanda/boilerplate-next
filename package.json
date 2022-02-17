@@ -36,7 +36,7 @@
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@types/jest": "^27.4.0",
-    "@types/react": "17.0.37",
+    "@types/react": "17.0.39",
     "@types/styled-components": "^5.1.21",
     "babel-loader": "^8.2.3",
     "babel-plugin-styled-components": "^2.0.2",
