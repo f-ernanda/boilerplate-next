@@ -29,15 +29,15 @@
     "styled-components": "^5.3.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.16.7",
+    "@babel/core": "^7.17.4",
     "@babel/preset-typescript": "^7.16.7",
     "@storybook/addon-essentials": "^6.4.15",
-    "@storybook/react": "^6.4.14",
+    "@storybook/react": "^6.4.19",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@types/jest": "^27.4.0",
     "@types/react": "17.0.37",
-    "@types/styled-components": "^5.1.21",
+    "@types/styled-components": "^5.1.22",
     "babel-loader": "^8.2.3",
     "babel-plugin-styled-components": "^2.0.2",
     "eslint": "8.6.0",
