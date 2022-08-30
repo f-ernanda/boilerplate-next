@@ -29,7 +29,7 @@
     "styled-components": "^5.3.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.17.8",
+    "@babel/core": "^7.18.13",
     "@babel/preset-typescript": "^7.16.7",
     "@storybook/addon-essentials": "^6.4.19",
     "@storybook/react": "^6.4.19",
@@ -40,7 +40,7 @@
     "@types/styled-components": "^5.1.24",
     "babel-loader": "^8.2.5",
     "babel-plugin-styled-components": "^2.0.6",
-    "eslint": "8.20.0",
+    "eslint": "8.23.0",
     "eslint-config-next": "12.1.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.0.0",
