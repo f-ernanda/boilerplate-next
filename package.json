@@ -39,7 +39,7 @@
     "@types/react": "17.0.39",
     "@types/styled-components": "^5.1.26",
     "babel-loader": "^9.1.2",
-    "babel-plugin-styled-components": "^2.1.1",
+    "babel-plugin-styled-components": "^2.1.4",
     "eslint": "8.40.0",
     "eslint-config-next": "13.4.4",
     "eslint-config-prettier": "^8.8.0",
